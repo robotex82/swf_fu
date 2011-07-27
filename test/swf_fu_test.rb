@@ -1,5 +1,7 @@
 require File.expand_path(File.dirname(__FILE__)+'/test_helper')
 require File.expand_path(File.dirname(__FILE__)+'/results')
+# require 'test_helper'
+# require 'results'
 
 class SwfFuTest < ActionView::TestCase
   def assert_same_stripped(expect, test)
