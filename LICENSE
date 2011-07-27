@@ -3,6 +3,7 @@
 # All rights reserved.
 # Inspired by FlashObject by Davide D'Agostino aka DAddYE (http://www.lipsiasoft.com)
 # Uses SWFObject.js 2.1 (http://code.google.com/p/swfobject)
+# Adaption to an engine and generators by Roberto Vasquez Angel (http://blog.robotex.de)
 #
 # Licensed under the terms of the (modified) BSD License below:
 #
